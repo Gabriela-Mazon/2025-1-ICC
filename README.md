@@ -26,7 +26,7 @@ Uma breve descrição dos tópicos abordados na disciplina, como:
 
 - **/Resumos:** Minhas anotações pessoais feitas durante as aulas.
 - **/Materiais-de-Apoio:** Slides, artigos e outros materiais complementares fornecidos pelo professor.
-- **/Atividades: Contém todos os trabalhos e atividades realizados ao longo do semestre.
+- **/Atividades:** Contém todos os trabalhos e atividades realizados ao longo do semestre.
 
 ---
 
