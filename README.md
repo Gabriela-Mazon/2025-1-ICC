@@ -1,6 +1,6 @@
 # 📚 Introdução à Ciencia da Computação - 2025.1
 
-Repositório destinado a todos os trabalhos, materiais de estudo e anotações da disciplina de Introdução à Ciencia da Computação.
+Repositório destinado a todos os trabalhos, materiais de estudo e anotações da disciplina de Introdução à Ciencia da Computação Prática e Teoria.
 
 ---
 
